@@ -10,10 +10,7 @@ import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 
 /**
- * @author kavish chandra - S11219143
- * @author Sudhansu Jayshil kisun - S11219520
- * @author Fardeen Ali - S11219171
- * @author Akash Mishra - S11219345
+ * @author Akash Mishra
  */
 
 public class PlayerPage extends javax.swing.JFrame {
