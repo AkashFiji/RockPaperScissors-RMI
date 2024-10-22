@@ -1,0 +1,8 @@
+- open project in netbeans
+- connect with jar files; mysql & tritinous-share
+- make a 'rps_game' database and export the sql file
+- depending in your netbeans configurations, you might have to configure the pom file
+- clean and build the project
+- run the project or run "Home.java"
+- login as the admin, email: admin & password: admin and start the server
+- now login as clients. It needs two clients to play this game.
