@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a multiplayer Rock-Paper-Scissors game that allows clients to connect and play against each other. The server is managed by an admin, and the game requires two clients to start. The project uses a MySQL database and external JAR files for dependencies.
+This project is a multiplayer Rock-Paper-Scissors game that allows clients to connect and play against each other. The server is managed by an admin, and the game requires two clients to start. The project uses a MySQL database and external JAR files for dependencies (refer to 'jar_file' to resolve issues).
 
 ## How to Set Up and Run the Project
 
