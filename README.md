@@ -34,17 +34,17 @@ To run the project, follow these steps:
 
 Here are some screenshots of the key screens:
 
-### 1. Sign In Page
+### 1. Login Page
 ![Sign in Page](./screenshots/signin.png)
 
 ### 2. Sign Up Dashboard
 ![Sign up page](./screenshots/signup.png)
 
 ### 3. Admin Dashboard
-![Admin Dashboard](./screenshots/admin.mp4)
+![Admin Dashboard](./screenshots/admin.gif)
 
 ### 4. Player Dashboard
-![Player Dashboard](./screenshots/player.mp4)
+![Player Dashboard](./screenshots/player.gif)
 
 ### 5. Game Interface
 ![Game Interface](./screenshots/game.png)
