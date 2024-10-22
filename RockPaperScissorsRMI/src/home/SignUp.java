@@ -11,8 +11,7 @@ import javax.swing.JOptionPane;
 import static javax.swing.JOptionPane.showMessageDialog;
 
 /**
- *
- * @author akash
+ * @author akash mishra
  */
 
 public class SignUp extends javax.swing.JFrame {
