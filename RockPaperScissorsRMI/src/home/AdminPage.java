@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Akash Mishra - S11219345
+ * @author Akash Mishra
  */
 
 public class AdminPage extends javax.swing.JFrame {
