@@ -9,23 +9,30 @@ This project is a multiplayer Rock-Paper-Scissors game that allows clients to co
 To run the project, follow these steps:
 
 1. **Open the project in NetBeans**.
+
 2. **Connect the project with the necessary JAR files**:
    - Refer to 'jar_file'
    - MySQL JAR file
    - Tritinous-share JAR file
-4. **Create a 'rps_game' database** in MySQL.
+
+3. **Create a 'rps_game' database** in MySQL.
    - Export the SQL file to set up the database structure.
-5. **Configure the `pom.xml` file** (optional):
+
+4. **Configure the `pom.xml` file** (optional):
    - Depending on your NetBeans configuration, you might need to modify the `pom.xml` file to ensure the correct dependencies are loaded.
-6. **Clean and build the project** in NetBeans.
-7. **Run the project**:
+
+5. **Clean and build the project** in NetBeans.
+
+6. **Run the project**:
    - You can run the entire project or run the `Home.java` file directly.
-8. **Login as the Admin**:
+
+7. **Login as the Admin**:
    - Use the following credentials:
      - **Email**: `admin`
      - **Password**: `admin`
    - Start the server from the admin dashboard.
-9. **Login as Clients**:
+
+8. **Login as Clients**:
    - The game requires **two clients** to play.
    - Both clients need to log in and connect to the server.
 
@@ -49,4 +56,6 @@ Here are some screenshots of the key screens:
 
 ### 5. Game Interface
 ![Game Interface](./screenshots/game.png)
+
+---
 
